@@ -1,0 +1,9 @@
+Create a 360-degree rotational video of a normal elephant artifact placed inside a grand palace hall, specifically designed for photogrammetry use. The elephant artifact should be a life-sized statue with highly detailed textures and realistic anatomy. It must feature intricately carved elements such as traditional floral patterns, ornamental motifs, and cultural designs on its tusks, trunk, and legs. The trunk should be in a dynamic upward curl, symbolizing power and prosperity, while the tusks should appear smooth yet finely detailed with engravings. The artifact's body should showcase realistic wrinkles, folds, and musculature, emphasizing its lifelike features.
+
+The environment should replicate a royal palace hall with high ceilings, arched windows, and ornately decorated columns. The floor beneath the statue should be polished marble, reflecting the artifact subtly to enhance its majestic appearance. Chandeliers suspended from above cast warm, diffused light, while natural sunlight streams through the windows, creating an ethereal interplay of shadows and highlights across the statue.
+
+Rotation and Details
+The video should rotate around the elephant statue in precise 3-degree increments, completing a full 360-degree turn in a seamless 6-second animation.
+Capture the intricate details of the carving, including close-ups of the tusks, trunk, and pedestal base.
+Ensure a uniform focal length and depth of field to maintain clarity and consistency throughout.
+The video must be high-definition, suitable for 3D conversion, ensuring every detail is crisp and accurate.
