@@ -1,0 +1,14 @@
+Main Subject:
+A perfectly symmetrical 3D model that faithfully preserves the original input image’s intricate details, including its texture, color, and structural shape, without distortion or deformation during rotation.
+
+Scene:
+The model is centered against a pure black background, enhancing the visual contrast and highlighting its intricate features. Lighting is uniformly distributed but dynamically adjusts to enhance depth, ensuring that every texture and design element remains consistent and prominent.
+
+Motion:
+The model undergoes a smooth 360-degree rotation at a constant speed, completing the rotation within 6 seconds. The rotation preserves the model’s symmetrical shape, ensuring no distortion or alteration of its structural features. Each frame maintains the integrity of the input image’s design as it transitions seamlessly from one perspective to another.
+
+Camera Movement:
+A stationary camera is positioned at an optimal distance to capture the entire model, ensuring that the object’s proportions and design remain constant throughout the rotation. The camera remains fixed, eliminating any unnecessary movement that could distort the viewer’s perception of the shape.
+
+Aesthetic Atmosphere:
+The aesthetic atmosphere is sleek and minimalistic, with the black background providing a clean, distraction-free setting. The lighting emphasizes the model’s textures and contours without casting harsh shadows or highlights that could obscure details. The result is a professional and refined presentation that showcases the model’s complexity and symmetry.
