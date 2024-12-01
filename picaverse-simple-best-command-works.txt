@@ -1,0 +1,5 @@
+create an photogrammetry view in 360 degree each step 60 degree and front view input image given side and all the same designs create an 3d object with real texture in the input image all side do the same design give an correct and solid design
+
+
+
+
